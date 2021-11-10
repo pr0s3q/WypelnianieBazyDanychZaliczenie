@@ -1,0 +1,16 @@
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.exe
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.deps.json
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.runtimeconfig.json
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.runtimeconfig.dev.json
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.dll
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\ref\WypelnianieBazyDanychZaliczenie.dll
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\bin\Debug\net5.0\WypelnianieBazyDanychZaliczenie.pdb
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.csproj.AssemblyReference.cache
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.AssemblyInfoInputs.cache
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.AssemblyInfo.cs
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.csproj.CoreCompileInputs.cache
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.dll
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\ref\WypelnianieBazyDanychZaliczenie.dll
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.pdb
+D:\C#Projects\WypelnianieBazyDanychZaliczenie\WypelnianieBazyDanychZaliczenie\obj\Debug\net5.0\WypelnianieBazyDanychZaliczenie.genruntimeconfig.cache
